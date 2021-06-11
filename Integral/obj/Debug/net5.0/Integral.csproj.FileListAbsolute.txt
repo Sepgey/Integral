@@ -1,0 +1,32 @@
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\bin\Debug\net5.0\Integral.exe
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\bin\Debug\net5.0\Integral.deps.json
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\bin\Debug\net5.0\Integral.runtimeconfig.json
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\bin\Debug\net5.0\Integral.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\bin\Debug\net5.0\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\bin\Debug\net5.0\ref\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\bin\Debug\net5.0\Integral.pdb
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\ref\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.pdb
+C:\Users\Sergey\Desktop\Учёба\3 курс\Сети\Integral\Integral\obj\Debug\net5.0\Integral.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\bin\Debug\net5.0\Integral.exe
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\bin\Debug\net5.0\Integral.deps.json
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\bin\Debug\net5.0\Integral.runtimeconfig.json
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\bin\Debug\net5.0\Integral.runtimeconfig.dev.json
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\bin\Debug\net5.0\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\bin\Debug\net5.0\ref\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\bin\Debug\net5.0\Integral.pdb
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\ref\Integral.dll
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.pdb
+C:\Users\Sergey\Desktop\Учёба\3 курс\Паралелльное программирование\Integral\Integral\obj\Debug\net5.0\Integral.genruntimeconfig.cache
